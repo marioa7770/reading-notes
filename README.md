@@ -12,3 +12,5 @@ This will be reading notes for Code Fellows
 6. [reading 8](reading102-8.md)
 
 ## Code-201 Notes
+
+1. [reading 1](reading201-1.md)
