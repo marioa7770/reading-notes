@@ -13,7 +13,7 @@ This will be reading notes for Code Fellows
 
 ## Code-201 Notes
 
-1. [reading 1](class-01.md)
+1. [class-01.md](class-01.md)
 2. [reading 2](reading201-2.md)
 3. [reading 3](reading201-3.md)
 4. [reading 4](reading201-4.md)
