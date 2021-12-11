@@ -15,7 +15,7 @@ This will be reading notes for Code Fellows
 
 1. [class-01.md](class-01.md)
 2. [class-02.md](class-02.md)
-3. [reading 3](reading201-3.md)
+3. [class-03.md](class-03.md)
 4. [reading 4](reading201-4.md)
 5. [reading 5](reading201-5.md)
 6. [reading 6](reading201-6.md)
