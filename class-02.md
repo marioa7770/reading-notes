@@ -38,3 +38,6 @@ You write Javascript starting with a script which is a set of instructions that 
 - Variables are created to temporarily store information (data), we use variables to "remember" data.
 
 - When creating a variable we have to declare them you need to announce that you want to use it VAR and then VARIABLE NAME.
+
+
+added a few things
