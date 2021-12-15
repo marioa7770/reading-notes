@@ -21,3 +21,41 @@ website are sometimes referred to as directories.
 Relative URLs can be used when linking to pages within your own
 website. They provide a shorthand way of telling the browser where to
 find your files.
+
+## Normal Flow
+In normal flow, each block-level
+element sits on top of the next
+one. Since this is the default
+way in which browsers treat
+HTML elements, you do not
+need a CSS property to indicate
+that elements should appear
+in normal flow, but the syntax
+would be:
+
+## Relative Positioning 
+
+Relative positioning moves an
+element in relation to where it
+would have been in normal flow
+
+## Absolute Positioning
+
+When the position property
+is given a value of absolute,
+the box is taken out of normal
+flow and no longer affects the
+position of other elements on
+the page. (They act like it is not
+there.) 
+
+## Fixed Positioning
+
+of absolute positioning that
+requires the position property
+to have a value of fixed.
+
+## JAVASCRIPT Chapter 3
+
+Functions let you group a series of statements together and perform a specific task, if different parts of the script repeat the same task you can re-use the function..
+
