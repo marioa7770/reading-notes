@@ -19,7 +19,7 @@ This will be reading notes for Code Fellows
 4. [class-04.md](class-04.md)
 5. [class-05.md](class-05.md)
 6. [class-06.md](class-06.md)
-7. [reading 7](reading201-7.md)
+7. [class-07.md](class-07.md)
 8. [reading 8](reading201-8.md)
 9. [reading 9](reading201-9.md)
 10. [reading 10](reading201-10.md)
