@@ -16,4 +16,4 @@ throw, and f i na1ly statements.
 Browers come with developer tools and Javascript consoles. 
 The JavaScript console will tell you when there is a problem with a script, where to look for the problem, and what kind of issue it seems to be.When you are debugging errors, it can help if you look at the error in more than one browser as they can show you different error messages.Ifyouopentheerrors.html filefromthesample code in your browser, and then open the console, you will see an error is displayed.
 
-avaScript has 7 different types of errors. Each creates its own error object, which can tell you its line number and gives a description of the errors, If you know that you may get an error, you can handle it gracefully using the try, catch, finally statements. Use them to give your users helpful feedback.
+avaScript has 7 different types of errors. Each creates its own error object, which can tell you its line number and gives a description of the errors, If you know that you may get an error, you can handle it gracefully using the try, catch, finally statements. Use them to give your users helpful feedbackk.
