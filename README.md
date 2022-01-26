@@ -27,4 +27,4 @@ This will be reading notes for Code Fellows
 12. [class-12.md](class-12.md)
 13. [reading 13](reading201-13.md)
 14. [class-14.md](class-14.md)
-15. [reading 15](reading201-15.md)
+15. [class-14a.md](class-14a.md)
