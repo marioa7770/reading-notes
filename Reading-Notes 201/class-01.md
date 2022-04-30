@@ -15,3 +15,5 @@ THe structure section talks more about how the structure of a webpage is set up,
 There are also different versions of HTML with each release showing improvements from the previous versions. HTML 4 was introduced in 1997, XHTML was introuduced in 2000 and HTML 5 was introduced in 2000.  HTML 4 is pretty much the same as HTML 5 except for a few added elements. XHTML requires that every element needs a closing tag, attribute names have to be in lowercase letters, all attributes required a value.
 
 The Java Script section was interesting, it is broken down in three sections which is A - what is script and how do I create one, B - How do computers fit in with the world around them and lastly C - how do I write a script for a webpage. Scripts are like instructions that a computer can follow step-by step. A browser may use different parts of the script depending on how the user utilizes the webpage for example clicking on a certain link or using the search option on the webpage. To approach writing a script break down your goal into a series of tasks and then work out each step needed to complete that task
+
+this is a test
